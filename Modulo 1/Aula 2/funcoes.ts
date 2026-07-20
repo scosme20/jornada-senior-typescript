@@ -65,5 +65,3 @@ const usuario: Dados = {
 
 // Inicia o processo de validação e exibição
 formatarUsuario(usuario);
-
-/////////////////////
